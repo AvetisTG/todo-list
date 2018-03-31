@@ -1,0 +1,43 @@
+.tasks-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.task-wrapper {
+    margin: 20px auto 0 auto;
+    width: 600px;
+    border: 1px solid black;
+    height: 240px;
+    display: flex;
+    align-items: center;
+}
+
+.task-text-wrapper {
+    width: 300px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.task-wrapper img {
+    float: right;
+    height: 240px;
+}
+.task-wrapper span {
+    font-weight: bold;
+}
+
+.pages {
+    margin: 30px auto;
+    display: flex;
+    padding: 50px;
+}
+
+.active-page {
+    background-color: #ff983b;
+}
+
+.pages button{
+    padding: 10px;
+}
+

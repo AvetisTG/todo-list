@@ -1,0 +1,17 @@
+.wrapper {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.wrapper button {
+    text-align: center;
+    width: 150px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #2d9fff;
+    font-size: 15px;
+}
+
+
